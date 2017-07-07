@@ -1,0 +1,27 @@
+.logo
+{
+font-family: 'Raleway', sans-serif !important;
+letter-spacing: 3px;
+font-size: 30px;
+
+}
+
+header .menu-superior {
+  background-color: #222123;
+  border: none;
+  font-family: 'Libre Baskerville', serif;
+
+
+}
+
+.menu-derecha .boton_principal {
+  padding: 30px !important;
+  border-bottom: 8px solid #55156d;
+  transition: background 1s ease, border 1s ease;
+}
+
+.menu-derecha .boton_principal:hover, .menu-derecha .boton_principal:focus {
+  background-color: #332c2e !important;
+  border-bottom-color: #8222af !important;
+  outline: none;
+}
