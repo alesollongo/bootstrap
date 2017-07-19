@@ -57,8 +57,10 @@ h2.titiulo-caption {
   padding: 3rem;
   border-radius: 0px;
   border: 0px;
-  border-top: 8px solid #55156d;
-  text-align: left; }
+  border-top: 8px solid #55156d; }
+
+.box-categorias .titulos, .modal-contacto .titulos {
+  text-align: center; }
 
 .titulos {
   color: #55156d;
